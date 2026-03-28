@@ -39,3 +39,4 @@ E:\claude\test1\obj\Debug\net8.0\refint\UniversityGrades.dll
 E:\claude\test1\obj\Debug\net8.0\UniversityGrades.pdb
 E:\claude\test1\obj\Debug\net8.0\UniversityGrades.genruntimeconfig.cache
 E:\claude\test1\obj\Debug\net8.0\ref\UniversityGrades.dll
+e:\claude\test1\obj\Debug\net8.0\UniversityGrades.sourcelink.json
